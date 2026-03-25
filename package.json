@@ -19,7 +19,7 @@
     "libphonenumber-js": "^1.12.10",
     "lucide-react": "^0.544.0",
     "motion": "^12.23.3",
-    "next": "15.3.5",
+    "next": "^16.2.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-hot-toast": "^2.5.2",
